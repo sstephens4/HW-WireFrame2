@@ -1,0 +1,114 @@
+/*
+First style sheet for HW! 
+ */
+
+ * {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+}
+
+header {
+    text-align: center;
+    padding: 30px;
+    margin-left: 15%;
+    margin-right: -30%;
+    margin-bottom: 10px;
+    background: #ebebeb;
+}
+
+section {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    background: #ebebeb;
+}
+
+#nav {
+    text-align: center;
+    padding: 30px;
+    margin-left: 15%;
+    margin-right: -30%;
+    margin-bottom: 20px;
+    background: #ebebeb;
+}
+
+
+#left {
+   text-align: center;
+   margin-bottom: 30px;
+   margin-left: 15%;
+    margin-right: -30%;
+   float: left;
+   width: 63%;
+   height: 350px;
+   padding: 30px;
+   color: #777;
+   background: #ebebeb;
+}
+
+article {
+   padding: 30px;
+   margin-top: 35px;
+   margin-left: -10px;
+   margin-right: -10px;
+   text-align: center;
+   height: 250px;
+   color: #ebebeb;
+   background: #777;
+}
+
+div  {
+    padding: 20px;
+    margin-top: 40px;
+    margin-bottom: -25px;
+    color: #777;
+    background: #ebebeb;
+}
+
+h1 {
+   margin-left: 55%;
+   text-align: center;
+}
+
+p {
+   text-align: center;
+   width: 56%;
+}
+
+#right {
+   text-align: center;
+   margin-bottom: 30px;
+   margin-left: 15%;
+    margin-right: -30%;
+   padding: 20px;
+   float: right;
+   width: 50%;
+   height: 350px;
+   background: #ebebeb;
+}
+
+footer {
+   text-align: center;
+   margin-left: 15%;
+    margin-right: -30%;
+   padding: 30px;
+   clear: both;
+   background: #ebebeb;
+}
+
+
+
+
+
+
+
+ 
